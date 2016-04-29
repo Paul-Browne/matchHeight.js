@@ -10,4 +10,4 @@ The heights of the 3 div's will all be equal to the height of the heighest div
     <div>...</div>
 </section>
 ```
-
+<script src="/js/matchHeight.min.js"></script>
