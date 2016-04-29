@@ -3,7 +3,7 @@
     matchHeight = function() {
 
         // container(s) of the elements you want to have matching heights
-        var container = document.querySelectorAll(".match-height");
+        var container = document.querySelectorAll(".js-match-height");
 
         // loop over all the containers
         var k = container.length;
